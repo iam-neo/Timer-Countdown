@@ -19,13 +19,13 @@ With its simple and customizable design, this countdown timer webpage is versati
 [![GitHub](https://img.shields.io/github/license/alsiam/alfolio?color=blue)](MIT-LICENSE.txt) 
 <br>
 <p align="center">
-  <a href="count-timerr.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Live Preview-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="alsiam" /></a> 
+  <a href="https://count-timerr.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live Preview-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="alsiam" /></a> 
   <a href="https://github.com/iam-neo/Timer-Countdown/fork" target="_blank"><img src="https://img.shields.io/badge/Fork the Repository-088B5?style=for-the-badge&logo=website&logoColor=blue" alt="alsiam" /></a> 
   <a href="https://github.com/iam-neo/Timer-Countdown/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/Download-DC143C?style=for-the-badge&logo=website&logoColor=white" alt="alsiam" /></a> 
 </p>
 <br>
 
-## [Live Preview](count-timerr.netlify.app)
+## [Live Preview](https://count-timerr.netlify.app/)
 
 <h2 align="center">
   <img src="preview/preview.png" alt="Simplefolio" width="600px" />
