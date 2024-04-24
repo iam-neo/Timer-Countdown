@@ -80,7 +80,7 @@ git clone : repository Url
 ```
 3. Move into the repository\
 ```bash
-$ cd alfolio
+$ cd Timer-Countdown
 ```
 4. Commit your changes/
 ```bash
